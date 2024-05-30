@@ -9,7 +9,8 @@
 | Bùi Đặng Thuỳ Thương   |21110316| 
 ## Mô tả
 Phân tích và thiết kế hệ thống về sàn thương mại hỗ trợ việc làm dành cho ứng viên muốn tìm việc và doanh nghiệp muốn tìm kiếm ứng viên phù hợp với vị trí mông muốn của mình. Các biểu đồ thể hiện từng chức năng của một sàn thương mại hữu ích cho ứng viên, doanh nghiệp và quản trị viên.
-[Phân tích sàn thương mại](https://careerhub.hcmute.edu.vn/)
+
+[Phân tích sàn thương mại HCMUTE](https://careerhub.hcmute.edu.vn/)
 ## Đối tượng 
 Doanh nghiệp: Các công ty và tổ chức quan tâm đến việc tạo ra hoặc sử dụng sàn thương mại việc làm để tuyển dụng nhân sự.
 Người tìm việc: Các cá nhân đang tìm kiếm cơ hội việc làm thông qua sàn thương mại này.
@@ -39,6 +40,7 @@ Quản trị viên: Những người chịu trách nhiệm vận hành và duy t
   - Phê duyệt, từ chối bài đăng của doanh nghiệp.
   - Lập báo cáo một số thông tin như sau: các ngành mà doanh nghiệp quan tâm, số lượng tin tuyển dụng đang trong tháng, tuần, ngày xuất hồ sơ ứng tuyển, tỷ lệ doanh nghiệp đăng ký tài khoản, tỷ lệ giới tính của ứng viên, mức lương theo các ngành đào tạo mà doanh nghiệp đăng tin tuyển dụng.
 </details>
+
 ## Công nghệ
 IDE: Draw.io
 ## Design Digram
