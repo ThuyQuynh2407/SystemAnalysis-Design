@@ -44,7 +44,7 @@ Quản trị viên: Những người chịu trách nhiệm vận hành và duy t
 ## Công nghệ
 IDE: Draw.io
 ## Design Digram
-[Activity Diagram](https://app.diagrams.net/#G1l6pNd62cC-LgtG1MNEpbITz4Lg71FepK#%7B%22pageId%22%3A%2274u5PDIn6QB7BPTkHJcN%22%7D)
+[Activity Diagram](https://app.diagrams.net/#G1l6pNd62cC-LgtG1MNEpbITz4Lg71FepK#%7B%22pageId%22%3A%2274u5PDIn6QB7BPTkHJcN%22%7D).
 [UseCase Diagram](https://app.diagrams.net/#G1N6mnX6VTV7fsG8tnWTJ87vhxuMX-KirN#%7B%22pageId%22%3A%22d29DjUdbyYqTpqsHV6zt%22%7D)
 [Class Diagram](https://app.diagrams.net/#G1H-sykj95kXqVOynjmBg1aAL97bYWeVFB#%7B%22pageId%22%3A%2296TIA7zKhpkw4f_rN6CT%22%7D)
 [Seqence Diagram](https://app.diagrams.net/#G13vJtSIpPaKDDSYGnJnA4a05dgRK7e0Ha#%7B%22pageId%22%3A%22T6wRXbwGTfQr69nC-y83%22%7D)
